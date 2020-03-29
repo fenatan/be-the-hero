@@ -12,11 +12,11 @@ Desenvolvimento de uma aplicação Web e Mobile de ponta a ponta com JavaScript.
 - TDD
 - Jest
 
-FrontEnd
-ReactJS
-HTML
-CSS
+## FrontEnd
+- ReactJS
+- HTML
+- CSS
 
-Mobile
-Expo
-React Native
+## Mobile
+- Expo
+- React Native
